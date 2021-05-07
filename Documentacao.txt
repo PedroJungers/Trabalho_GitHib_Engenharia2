@@ -35,5 +35,6 @@ REQUISITOS:
 ===========
 Requisitos funcionais:
 RF001: A nova funcionalidade deve calcular o perímetro ou a área de um retângulo
+RF002: A nova funcionalidade deve calcular o perímetro ou a área de uma circunferência
 
 Requisitos não funcionais: 
