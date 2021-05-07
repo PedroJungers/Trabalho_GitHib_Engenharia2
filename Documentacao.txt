@@ -1,0 +1,23 @@
+NEGÓCIO:
+========
+
+PROBLEMA:
+=========
+
+ATIVIDADE DE NEGÓCIO:
+=====================
+
+PROCESSO DE NEGÓCIO:
+====================
+
+REGRAS DE NEGÓCIO:
+==================
+
+STAKEHOLDERS: 
+=============
+
+REQUISITOS:
+===========
+Requisitos funcionais:
+
+Requisitos não funcionais: 
