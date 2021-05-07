@@ -19,6 +19,9 @@ PROCESSO DE NEGÓCIO:
 
 REGRAS DE NEGÓCIO:
 ==================
+RN001: A empresa tem no máximo 6 dias úteis para começar o trabalho. 
+RN002: O cliente deve passar o local específico onde será feito o trabalho, por exemplo, uma parede, uma parte do piso, etc.
+RN003: Informações passadas pelo cliente devem ser armazenadas no sistema.
 
 STAKEHOLDERS: 
 =============
