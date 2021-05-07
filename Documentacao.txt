@@ -30,6 +30,9 @@ RN003: Informações passadas pelo cliente devem ser armazenadas no sistema.
 
 STAKEHOLDERS: 
 =============
+- Pintor(s)
+- Clientes
+- Equipe de desenvolvimento do sistema
 
 REQUISITOS:
 ===========
