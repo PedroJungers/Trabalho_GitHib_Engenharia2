@@ -16,6 +16,11 @@ ATIVIDADE DE NEGÓCIO:
 
 PROCESSO DE NEGÓCIO:
 ====================
+- Pintura em residencia:
+O cliente entra em contato com a empresa, passando todas as informações, como, nome completo, endereço e número para contato. O cliente informa o local específicoda da residencia 
+onde será feito o trabalho, por exemplo, em uma parede, no piso, na casa toda, na faixada, etc. Informações como nome do cliente, endereço, número de contato, cores que serão 
+utilizados e quantidade de tinta, devem ser armazenados dentro do sistema da empresa. Dentro de 6 dias úteis, a empresa se dirige ao local e começa o serviço com as cores desejadas 
+pelo cliente. 
 
 REGRAS DE NEGÓCIO:
 ==================
