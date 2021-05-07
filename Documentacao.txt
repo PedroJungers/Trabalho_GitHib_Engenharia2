@@ -5,6 +5,9 @@ A empresa presta serivço na area de pintura.
 
 PROBLEMA:
 =========
+A empresa encontra problemas com o desperdício de tinta. Em cada serviço, muita tinta acaba não sendo utilizado. Para minimizar esse desperdicio a 
+empresa deseja adicionar ao próprio sistema já existente uma nova funcionalidade, na qual deve calcular a área e o perimetro de uma circunferencia ou um retangulo, com o intuito
+de saber a quantidade aproximada de tinta a ser utilizado em cada trabalho.
 
 ATIVIDADE DE NEGÓCIO:
 =====================
