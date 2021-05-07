@@ -38,3 +38,7 @@ RF001: A nova funcionalidade deve calcular o perímetro ou a área de um retâng
 RF002: A nova funcionalidade deve calcular o perímetro ou a área de uma circunferência
 
 Requisitos não funcionais: 
+RNF001 - O cálculo do perímetro e área deve ser codificado em C++
+RNF002 - Para o cálculo do perímetro da circunferência, devem ser informado valor do RAIO
+RNF003 - Para o cálculo da área da circunferência, devem ser informado o valor do RAIO
+RNF004 - Para o cálculo do perímetro do retangulo devem ser informados os valores da base e altura
