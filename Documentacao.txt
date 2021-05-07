@@ -34,5 +34,6 @@ STAKEHOLDERS:
 REQUISITOS:
 ===========
 Requisitos funcionais:
+RF001: A nova funcionalidade deve calcular o perímetro ou a área de um retângulo
 
 Requisitos não funcionais: 
