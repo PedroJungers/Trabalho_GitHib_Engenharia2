@@ -1,5 +1,7 @@
 NEGÓCIO:
 ========
+Empresa de pintura
+A empresa presta serivço na area de pintura. 
 
 PROBLEMA:
 =========
